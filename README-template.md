@@ -24,8 +24,8 @@ This is the screenshot for the mobile preview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/Jackson-zablon15/qr-code.git)
+- Live Site URL:(https://qr-code-6umw.vercel.app/)
 
 ## My process
 
